@@ -1,8 +1,0 @@
-# HTTrack Website Copier Cookie File
-# This file format is compatible with Netscape cookies
-kuba4300.wixsite.com	TRUE	/	FALSE	1999999999	__cf_bm	pvfpQ9KT7c2w_JSOC4llDr9_E2Ap6LcJ7Y.x2w4ULM4-1792455071.3052256-1.0.1.1-znHVvDbsflvghA4vStG5a2FbZpR6TBoww3LkDEoa.ObeqCa8Yok3xINpJGcaJnipFoECDhmNklA1gJgnw2MHUcUaPXyNEYepG5SKQ_KQJiRpm25dpyHCTyoLPkt9U.rs
-kuba4300.wixsite.com	TRUE	/	FALSE	1999999999	sec-fetch-unsupported	1
-kuba4300.wixsite.com	TRUE	/	FALSE	1999999999	XSRF-TOKEN	1792455087|VCbDVbkQb3wW
-kuba4300.wixsite.com	TRUE	/	FALSE	1999999999	SameSite	None
-kuba4300.wixsite.com	TRUE	/	FALSE	1999999999	ssr-caching	cache#desc=miss#varnish=miss_hit#dc#desc=cloudflare
-
